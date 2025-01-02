@@ -1,0 +1,11 @@
+.assignment {
+  background-color: beige;
+}
+
+@media (max-width: 600px) {
+  .Button {
+    width: 70px !important;
+    font-size: 12px;
+    font-weight: 500;
+  }
+}
